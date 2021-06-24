@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+dataset
+src/logs
+src/xtest.npy
+src/xtrain.npy
+src/ytest.npy
+src/ytrain.npy
